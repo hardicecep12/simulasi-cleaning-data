@@ -10,5 +10,10 @@ Aplikasi berbasis Streamlit untuk simulasi dan latihan pembersihan data (data cl
 
 1. Pastikan Python sudah terinstal di PC kamu.
 2. Instal pustaka yang dibutuhkan melalui terminal:
-   ```bash
-   pip install streamlit pandas numpy
+    ```bash
+    pip install streamlit pandas numpy
+    ```
+3. Jalankan aplikasi dengan perintah:
+    ```bash
+    streamlit run app.py
+    ```
